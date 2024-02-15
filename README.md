@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlloiBoii
-- 👀 I’m interested in learning how to program starting with python and related languages so that i can become certified and switch careers into programming. 
-- 🌱 I’m currently learning python and C++
+- 👀 
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on personal projects so i can understand, and learn through my mistakes
 - 📫 How to reach me - alloiboii3@gmail.com
 
